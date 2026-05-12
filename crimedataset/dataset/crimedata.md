@@ -72,7 +72,7 @@ This dataset is used in a Medallion Architecture-based Data Warehouse project wi
 
 Los Angeles Open Data Portal:
 
-[LA Crime Dataset Source]((https://www.kaggle.com/datasets/abdulqadeerjutt/los-angeles-crime-dataset))
+[LA Crime Dataset Source](https://www.kaggle.com/datasets/abdulqadeerjutt/los-angeles-crime-dataset)
 
 ---
 
