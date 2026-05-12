@@ -72,7 +72,7 @@ This dataset is used in a Medallion Architecture-based Data Warehouse project wi
 
 Los Angeles Open Data Portal:
 
-[LA Crime Dataset Source](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8?utm_source=chatgpt.com)
+[LA Crime Dataset Source]([https://www.kaggle.com/datasets/abdulqadeerjutt/los-angeles-crime-dataset])
 
 ---
 
