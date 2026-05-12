@@ -169,7 +169,7 @@ project/
 
 Los Angeles Crime Dataset:
 
-[LA Crime Dataset](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8?utm_source=chatgpt.com)
+[LA Crime Dataset](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8)
 
 ---
 
